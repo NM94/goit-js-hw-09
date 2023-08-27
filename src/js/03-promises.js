@@ -2,7 +2,7 @@ import Notiflix from "notiflix";
 
 const elements = {
   delay: document.querySelector('input[name="delay"]'),
-  step: document.querySelector('input[name="stop"]'),
+  step: document.querySelector('input[name="step"]'),
   amount: document.querySelector('input[name="amount"]'),
   form: document.querySelector('.form'),
 };
